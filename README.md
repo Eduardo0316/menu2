@@ -1,5 +1,5 @@
 # Proyecto: menu2
-Matricula : 202126928
-Nombre: Eduardo Garcia Mendoza
+Matrícula : 202126928
+Nombre: Eduardo García Mend
 Fecha: 2024-08-15
-Descripcion: Mi primer repositorio
+Descripción: Mi primer repositorio
